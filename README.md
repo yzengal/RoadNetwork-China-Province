@@ -1,2 +1,4 @@
-# RoadNetwork-China-Province
-This repository stores the road networks of Chinese provinces from OpenStreetMap.
+# RoadNetwork-China-Provinces
+
+This repository maintains the graphs (road networks) of Chinese provinces from OpenStreetMap.
+Please refer more details from [my homepage](https://yzengal.github.io/datasets/).
